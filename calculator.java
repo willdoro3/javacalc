@@ -7,8 +7,8 @@ public class BasicCalculator {
 		
 		Scanner calc = new Scanner(System.in);
 		
-		int num1;
-		int num2;
+		double num1;
+		double num2;
 		double ans = 0;
 		char op;
 		
